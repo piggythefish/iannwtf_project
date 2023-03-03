@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import json
 import numpy as np
 import os
@@ -32,7 +31,6 @@ print(len(data))
 ldata = np.concatenate(data, axis=0)
 
 print(type(ldata))
-=======
 import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
@@ -59,4 +57,3 @@ plt.xlim((0, 512))
 plt.ylabel('Position')
 plt.colorbar()
 plt.show()
->>>>>>> 84eb68379ca4e314328ada15785ccf1e607dbfce
