@@ -1,0 +1,414 @@
+Epoch 1/200
+ 99/100 [============================>.] - ETA: 0s - loss: 7.0040 - masked_accuracy: 0.0039
+Epoch 1: saving model to training_2/cp-0001.ckpt
+100/100 [==============================] - 92s 290ms/step - loss: 6.9974 - masked_accuracy: 0.0040 - val_loss: 6.2028 - val_masked_accuracy: 0.0081
+Epoch 2/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.9748 - masked_accuracy: 0.0090
+Epoch 2: saving model to training_2/cp-0002.ckpt
+100/100 [==============================] - 24s 225ms/step - loss: 5.9734 - masked_accuracy: 0.0090 - val_loss: 5.7373 - val_masked_accuracy: 0.0100
+Epoch 3/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.6962 - masked_accuracy: 0.0102
+Epoch 3: saving model to training_2/cp-0003.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 5.6955 - masked_accuracy: 0.0102 - val_loss: 5.6241 - val_masked_accuracy: 0.0099
+Epoch 4/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.6376 - masked_accuracy: 0.0104
+Epoch 4: saving model to training_2/cp-0004.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 5.6372 - masked_accuracy: 0.0105 - val_loss: 5.5922 - val_masked_accuracy: 0.0118
+Epoch 5/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.6119 - masked_accuracy: 0.0110
+Epoch 5: saving model to training_2/cp-0005.ckpt
+100/100 [==============================] - 23s 217ms/step - loss: 5.6116 - masked_accuracy: 0.0110 - val_loss: 5.5634 - val_masked_accuracy: 0.0128
+Epoch 6/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.5862 - masked_accuracy: 0.0114
+Epoch 6: saving model to training_2/cp-0006.ckpt
+100/100 [==============================] - 23s 216ms/step - loss: 5.5867 - masked_accuracy: 0.0114 - val_loss: 5.5333 - val_masked_accuracy: 0.0112
+Epoch 7/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.5411 - masked_accuracy: 0.0129
+Epoch 7: saving model to training_2/cp-0007.ckpt
+100/100 [==============================] - 23s 216ms/step - loss: 5.5402 - masked_accuracy: 0.0129 - val_loss: 5.4806 - val_masked_accuracy: 0.0128
+Epoch 8/200
+ 99/100 [============================>.] - ETA: 0s - loss: 5.1120 - masked_accuracy: 0.0209
+Epoch 8: saving model to training_2/cp-0008.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 5.1087 - masked_accuracy: 0.0210 - val_loss: 4.7999 - val_masked_accuracy: 0.0266
+Epoch 9/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.6389 - masked_accuracy: 0.0311
+Epoch 9: saving model to training_2/cp-0009.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 4.6383 - masked_accuracy: 0.0311 - val_loss: 4.4916 - val_masked_accuracy: 0.0377
+Epoch 10/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.4563 - masked_accuracy: 0.0358
+Epoch 10: saving model to training_2/cp-0010.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 4.4565 - masked_accuracy: 0.0358 - val_loss: 4.3924 - val_masked_accuracy: 0.0383
+Epoch 11/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.3687 - masked_accuracy: 0.0395
+Epoch 11: saving model to training_2/cp-0011.ckpt
+100/100 [==============================] - 23s 217ms/step - loss: 4.3666 - masked_accuracy: 0.0396 - val_loss: 4.2833 - val_masked_accuracy: 0.0412
+Epoch 12/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.2633 - masked_accuracy: 0.0458
+Epoch 12: saving model to training_2/cp-0012.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 4.2625 - masked_accuracy: 0.0458 - val_loss: 4.1736 - val_masked_accuracy: 0.0499
+Epoch 13/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.1405 - masked_accuracy: 0.0521
+Epoch 13: saving model to training_2/cp-0013.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 4.1397 - masked_accuracy: 0.0521 - val_loss: 4.0620 - val_masked_accuracy: 0.0580
+Epoch 14/200
+ 99/100 [============================>.] - ETA: 0s - loss: 4.0175 - masked_accuracy: 0.0596
+Epoch 14: saving model to training_2/cp-0014.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 4.0168 - masked_accuracy: 0.0598 - val_loss: 3.9460 - val_masked_accuracy: 0.0644
+Epoch 15/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.9027 - masked_accuracy: 0.0674
+Epoch 15: saving model to training_2/cp-0015.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 3.9004 - masked_accuracy: 0.0676 - val_loss: 3.8492 - val_masked_accuracy: 0.0698
+Epoch 16/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.7879 - masked_accuracy: 0.0759
+Epoch 16: saving model to training_2/cp-0016.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 3.7884 - masked_accuracy: 0.0758 - val_loss: 3.7609 - val_masked_accuracy: 0.0726
+Epoch 17/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.6858 - masked_accuracy: 0.0849
+Epoch 17: saving model to training_2/cp-0017.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 3.6844 - masked_accuracy: 0.0850 - val_loss: 3.6821 - val_masked_accuracy: 0.0829
+Epoch 18/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.5995 - masked_accuracy: 0.0941
+Epoch 18: saving model to training_2/cp-0018.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.6000 - masked_accuracy: 0.0940 - val_loss: 3.5947 - val_masked_accuracy: 0.0926
+Epoch 19/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.5248 - masked_accuracy: 0.1016
+Epoch 19: saving model to training_2/cp-0019.ckpt
+100/100 [==============================] - 23s 213ms/step - loss: 3.5236 - masked_accuracy: 0.1016 - val_loss: 3.5168 - val_masked_accuracy: 0.1018
+Epoch 20/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.4588 - masked_accuracy: 0.1093
+Epoch 20: saving model to training_2/cp-0020.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.4598 - masked_accuracy: 0.1093 - val_loss: 3.4499 - val_masked_accuracy: 0.1063
+Epoch 21/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.3903 - masked_accuracy: 0.1183
+Epoch 21: saving model to training_2/cp-0021.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.3898 - masked_accuracy: 0.1183 - val_loss: 3.3950 - val_masked_accuracy: 0.1139
+Epoch 22/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.3213 - masked_accuracy: 0.1273
+Epoch 22: saving model to training_2/cp-0022.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.3234 - masked_accuracy: 0.1272 - val_loss: 3.3154 - val_masked_accuracy: 0.1280
+Epoch 23/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.2509 - masked_accuracy: 0.1408
+Epoch 23: saving model to training_2/cp-0023.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.2502 - masked_accuracy: 0.1409 - val_loss: 3.2707 - val_masked_accuracy: 0.1394
+Epoch 24/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.1720 - masked_accuracy: 0.1541
+Epoch 24: saving model to training_2/cp-0024.ckpt
+100/100 [==============================] - 24s 219ms/step - loss: 3.1716 - masked_accuracy: 0.1542 - val_loss: 3.1769 - val_masked_accuracy: 0.1580
+Epoch 25/200
+ 99/100 [============================>.] - ETA: 0s - loss: 3.0594 - masked_accuracy: 0.1752
+Epoch 25: saving model to training_2/cp-0025.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 3.0590 - masked_accuracy: 0.1752 - val_loss: 3.0703 - val_masked_accuracy: 0.1787
+Epoch 26/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.9441 - masked_accuracy: 0.1976
+Epoch 26: saving model to training_2/cp-0026.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.9437 - masked_accuracy: 0.1977 - val_loss: 2.9487 - val_masked_accuracy: 0.1997
+Epoch 27/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.8456 - masked_accuracy: 0.2185
+Epoch 27: saving model to training_2/cp-0027.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.8438 - masked_accuracy: 0.2189 - val_loss: 2.8399 - val_masked_accuracy: 0.2233
+Epoch 28/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.7358 - masked_accuracy: 0.2417
+Epoch 28: saving model to training_2/cp-0028.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.7332 - masked_accuracy: 0.2424 - val_loss: 2.7678 - val_masked_accuracy: 0.2371
+Epoch 29/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.6378 - masked_accuracy: 0.2619
+Epoch 29: saving model to training_2/cp-0029.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.6372 - masked_accuracy: 0.2619 - val_loss: 2.6933 - val_masked_accuracy: 0.2502
+Epoch 30/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.5659 - masked_accuracy: 0.2778
+Epoch 30: saving model to training_2/cp-0030.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.5643 - masked_accuracy: 0.2781 - val_loss: 2.6131 - val_masked_accuracy: 0.2693
+Epoch 31/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.4769 - masked_accuracy: 0.2955
+Epoch 31: saving model to training_2/cp-0031.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 2.4778 - masked_accuracy: 0.2953 - val_loss: 2.5761 - val_masked_accuracy: 0.2786
+Epoch 32/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.4144 - masked_accuracy: 0.3085
+Epoch 32: saving model to training_2/cp-0032.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.4140 - masked_accuracy: 0.3085 - val_loss: 2.4981 - val_masked_accuracy: 0.2916
+Epoch 33/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.3650 - masked_accuracy: 0.3188
+Epoch 33: saving model to training_2/cp-0033.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.3627 - masked_accuracy: 0.3195 - val_loss: 2.4526 - val_masked_accuracy: 0.3043
+Epoch 34/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.2993 - masked_accuracy: 0.3338
+Epoch 34: saving model to training_2/cp-0034.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.2984 - masked_accuracy: 0.3340 - val_loss: 2.3515 - val_masked_accuracy: 0.3217
+Epoch 35/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.2486 - masked_accuracy: 0.3464
+Epoch 35: saving model to training_2/cp-0035.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.2485 - masked_accuracy: 0.3464 - val_loss: 2.3347 - val_masked_accuracy: 0.3274
+Epoch 36/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.2153 - masked_accuracy: 0.3545
+Epoch 36: saving model to training_2/cp-0036.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.2143 - masked_accuracy: 0.3548 - val_loss: 2.2732 - val_masked_accuracy: 0.3436
+Epoch 37/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.1593 - masked_accuracy: 0.3694
+Epoch 37: saving model to training_2/cp-0037.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.1590 - masked_accuracy: 0.3695 - val_loss: 2.2488 - val_masked_accuracy: 0.3489
+Epoch 38/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.1205 - masked_accuracy: 0.3815
+Epoch 38: saving model to training_2/cp-0038.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 2.1200 - masked_accuracy: 0.3817 - val_loss: 2.2386 - val_masked_accuracy: 0.3531
+Epoch 39/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.0749 - masked_accuracy: 0.3950
+Epoch 39: saving model to training_2/cp-0039.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 2.0744 - masked_accuracy: 0.3952 - val_loss: 2.1613 - val_masked_accuracy: 0.3751
+Epoch 40/200
+ 99/100 [============================>.] - ETA: 0s - loss: 2.0288 - masked_accuracy: 0.4081
+Epoch 40: saving model to training_2/cp-0040.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 2.0278 - masked_accuracy: 0.4084 - val_loss: 2.1602 - val_masked_accuracy: 0.3765
+Epoch 41/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.9870 - masked_accuracy: 0.4209
+Epoch 41: saving model to training_2/cp-0041.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.9891 - masked_accuracy: 0.4204 - val_loss: 2.0969 - val_masked_accuracy: 0.3954
+Epoch 42/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.9422 - masked_accuracy: 0.4343
+Epoch 42: saving model to training_2/cp-0042.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.9415 - masked_accuracy: 0.4345 - val_loss: 2.0764 - val_masked_accuracy: 0.4009
+Epoch 43/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.9042 - masked_accuracy: 0.4460
+Epoch 43: saving model to training_2/cp-0043.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.9047 - masked_accuracy: 0.4460 - val_loss: 2.0374 - val_masked_accuracy: 0.4130
+Epoch 44/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.8629 - masked_accuracy: 0.4579
+Epoch 44: saving model to training_2/cp-0044.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.8641 - masked_accuracy: 0.4577 - val_loss: 1.9751 - val_masked_accuracy: 0.4312
+Epoch 45/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.8390 - masked_accuracy: 0.4648
+Epoch 45: saving model to training_2/cp-0045.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.8371 - masked_accuracy: 0.4654 - val_loss: 1.9686 - val_masked_accuracy: 0.4360
+Epoch 46/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.7927 - masked_accuracy: 0.4800
+Epoch 46: saving model to training_2/cp-0046.ckpt
+100/100 [==============================] - 24s 219ms/step - loss: 1.7944 - masked_accuracy: 0.4796 - val_loss: 1.9342 - val_masked_accuracy: 0.4461
+Epoch 47/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.7608 - masked_accuracy: 0.4901
+Epoch 47: saving model to training_2/cp-0047.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.7613 - masked_accuracy: 0.4899 - val_loss: 1.9276 - val_masked_accuracy: 0.4499
+Epoch 48/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.7335 - masked_accuracy: 0.4992
+Epoch 48: saving model to training_2/cp-0048.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.7349 - masked_accuracy: 0.4986 - val_loss: 1.9166 - val_masked_accuracy: 0.4533
+Epoch 49/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.7066 - masked_accuracy: 0.5083
+Epoch 49: saving model to training_2/cp-0049.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.7058 - masked_accuracy: 0.5088 - val_loss: 1.8665 - val_masked_accuracy: 0.4712
+Epoch 50/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.6827 - masked_accuracy: 0.5169
+Epoch 50: saving model to training_2/cp-0050.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.6817 - masked_accuracy: 0.5173 - val_loss: 1.8560 - val_masked_accuracy: 0.4770
+Epoch 51/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.6401 - masked_accuracy: 0.5300
+Epoch 51: saving model to training_2/cp-0051.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.6403 - masked_accuracy: 0.5299 - val_loss: 1.8363 - val_masked_accuracy: 0.4838
+Epoch 52/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.6278 - masked_accuracy: 0.5347
+Epoch 52: saving model to training_2/cp-0052.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.6268 - masked_accuracy: 0.5350 - val_loss: 1.8588 - val_masked_accuracy: 0.4779
+Epoch 53/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.6070 - masked_accuracy: 0.5413
+Epoch 53: saving model to training_2/cp-0053.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.6066 - masked_accuracy: 0.5414 - val_loss: 1.7924 - val_masked_accuracy: 0.5001
+Epoch 54/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.5713 - masked_accuracy: 0.5523
+Epoch 54: saving model to training_2/cp-0054.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.5725 - masked_accuracy: 0.5520 - val_loss: 1.8004 - val_masked_accuracy: 0.5003
+Epoch 55/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.5605 - masked_accuracy: 0.5553
+Epoch 55: saving model to training_2/cp-0055.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.5605 - masked_accuracy: 0.5553 - val_loss: 1.7808 - val_masked_accuracy: 0.5046
+Epoch 56/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.5323 - masked_accuracy: 0.5644
+Epoch 56: saving model to training_2/cp-0056.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.5342 - masked_accuracy: 0.5638 - val_loss: 1.7542 - val_masked_accuracy: 0.5089
+Epoch 57/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.5185 - masked_accuracy: 0.5687
+Epoch 57: saving model to training_2/cp-0057.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.5186 - masked_accuracy: 0.5686 - val_loss: 1.7749 - val_masked_accuracy: 0.5081
+Epoch 58/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.5061 - masked_accuracy: 0.5723
+Epoch 58: saving model to training_2/cp-0058.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.5065 - masked_accuracy: 0.5720 - val_loss: 1.7434 - val_masked_accuracy: 0.5149
+Epoch 59/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4831 - masked_accuracy: 0.5793
+Epoch 59: saving model to training_2/cp-0059.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.4835 - masked_accuracy: 0.5791 - val_loss: 1.7156 - val_masked_accuracy: 0.5208
+Epoch 60/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4607 - masked_accuracy: 0.5855
+Epoch 60: saving model to training_2/cp-0060.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.4628 - masked_accuracy: 0.5848 - val_loss: 1.7156 - val_masked_accuracy: 0.5236
+Epoch 61/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4503 - masked_accuracy: 0.5886
+Epoch 61: saving model to training_2/cp-0061.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.4499 - masked_accuracy: 0.5887 - val_loss: 1.7016 - val_masked_accuracy: 0.5304
+Epoch 62/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4316 - masked_accuracy: 0.5942
+Epoch 62: saving model to training_2/cp-0062.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.4321 - masked_accuracy: 0.5940 - val_loss: 1.7027 - val_masked_accuracy: 0.5305
+Epoch 63/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4179 - masked_accuracy: 0.5974
+Epoch 63: saving model to training_2/cp-0063.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.4202 - masked_accuracy: 0.5968 - val_loss: 1.6884 - val_masked_accuracy: 0.5360
+Epoch 64/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.4005 - masked_accuracy: 0.6023
+Epoch 64: saving model to training_2/cp-0064.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3999 - masked_accuracy: 0.6026 - val_loss: 1.6821 - val_masked_accuracy: 0.5376
+Epoch 65/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3900 - masked_accuracy: 0.6055
+Epoch 65: saving model to training_2/cp-0065.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3901 - masked_accuracy: 0.6054 - val_loss: 1.6878 - val_masked_accuracy: 0.5345
+Epoch 66/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3790 - masked_accuracy: 0.6084
+Epoch 66: saving model to training_2/cp-0066.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3805 - masked_accuracy: 0.6080 - val_loss: 1.6674 - val_masked_accuracy: 0.5403
+Epoch 67/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3668 - masked_accuracy: 0.6116
+Epoch 67: saving model to training_2/cp-0067.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3668 - masked_accuracy: 0.6115 - val_loss: 1.6598 - val_masked_accuracy: 0.5459
+Epoch 68/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3542 - masked_accuracy: 0.6153
+Epoch 68: saving model to training_2/cp-0068.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3525 - masked_accuracy: 0.6158 - val_loss: 1.6543 - val_masked_accuracy: 0.5454
+Epoch 69/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3416 - masked_accuracy: 0.6190
+Epoch 69: saving model to training_2/cp-0069.ckpt
+100/100 [==============================] - 24s 219ms/step - loss: 1.3415 - masked_accuracy: 0.6191 - val_loss: 1.6609 - val_masked_accuracy: 0.5462
+Epoch 70/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3309 - masked_accuracy: 0.6216
+Epoch 70: saving model to training_2/cp-0070.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.3309 - masked_accuracy: 0.6217 - val_loss: 1.6504 - val_masked_accuracy: 0.5494
+Epoch 71/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3248 - masked_accuracy: 0.6230
+Epoch 71: saving model to training_2/cp-0071.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.3249 - masked_accuracy: 0.6230 - val_loss: 1.6449 - val_masked_accuracy: 0.5533
+Epoch 72/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.3056 - masked_accuracy: 0.6284
+Epoch 72: saving model to training_2/cp-0072.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.3063 - masked_accuracy: 0.6282 - val_loss: 1.6580 - val_masked_accuracy: 0.5515
+Epoch 73/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2986 - masked_accuracy: 0.6301
+Epoch 73: saving model to training_2/cp-0073.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2990 - masked_accuracy: 0.6300 - val_loss: 1.6376 - val_masked_accuracy: 0.5536
+Epoch 74/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2868 - masked_accuracy: 0.6335
+Epoch 74: saving model to training_2/cp-0074.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2869 - masked_accuracy: 0.6335 - val_loss: 1.6536 - val_masked_accuracy: 0.5460
+Epoch 75/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2815 - masked_accuracy: 0.6346
+Epoch 75: saving model to training_2/cp-0075.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2814 - masked_accuracy: 0.6346 - val_loss: 1.6343 - val_masked_accuracy: 0.5560
+Epoch 76/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2685 - masked_accuracy: 0.6379
+Epoch 76: saving model to training_2/cp-0076.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2676 - masked_accuracy: 0.6383 - val_loss: 1.6322 - val_masked_accuracy: 0.5578
+Epoch 77/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2591 - masked_accuracy: 0.6406
+Epoch 77: saving model to training_2/cp-0077.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.2600 - masked_accuracy: 0.6403 - val_loss: 1.6291 - val_masked_accuracy: 0.5584
+Epoch 78/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2500 - masked_accuracy: 0.6431
+Epoch 78: saving model to training_2/cp-0078.ckpt
+100/100 [==============================] - 23s 216ms/step - loss: 1.2502 - masked_accuracy: 0.6429 - val_loss: 1.6401 - val_masked_accuracy: 0.5570
+Epoch 79/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2460 - masked_accuracy: 0.6437
+Epoch 79: saving model to training_2/cp-0079.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.2451 - masked_accuracy: 0.6440 - val_loss: 1.6398 - val_masked_accuracy: 0.5570
+Epoch 80/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2364 - masked_accuracy: 0.6461
+Epoch 80: saving model to training_2/cp-0080.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2377 - masked_accuracy: 0.6457 - val_loss: 1.6277 - val_masked_accuracy: 0.5564
+Epoch 81/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2270 - masked_accuracy: 0.6488
+Epoch 81: saving model to training_2/cp-0081.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2278 - masked_accuracy: 0.6485 - val_loss: 1.6245 - val_masked_accuracy: 0.5605
+Epoch 82/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2186 - masked_accuracy: 0.6505
+Epoch 82: saving model to training_2/cp-0082.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2195 - masked_accuracy: 0.6502 - val_loss: 1.6302 - val_masked_accuracy: 0.5589
+Epoch 83/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2129 - masked_accuracy: 0.6523
+Epoch 83: saving model to training_2/cp-0083.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2128 - masked_accuracy: 0.6523 - val_loss: 1.6340 - val_masked_accuracy: 0.5598
+Epoch 84/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2046 - masked_accuracy: 0.6542
+Epoch 84: saving model to training_2/cp-0084.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.2051 - masked_accuracy: 0.6540 - val_loss: 1.6320 - val_masked_accuracy: 0.5592
+Epoch 85/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.2011 - masked_accuracy: 0.6552
+Epoch 85: saving model to training_2/cp-0085.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.2013 - masked_accuracy: 0.6552 - val_loss: 1.6307 - val_masked_accuracy: 0.5589
+Epoch 86/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1931 - masked_accuracy: 0.6571
+Epoch 86: saving model to training_2/cp-0086.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1916 - masked_accuracy: 0.6576 - val_loss: 1.6248 - val_masked_accuracy: 0.5585
+Epoch 87/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1844 - masked_accuracy: 0.6592
+Epoch 87: saving model to training_2/cp-0087.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1835 - masked_accuracy: 0.6595 - val_loss: 1.6274 - val_masked_accuracy: 0.5612
+Epoch 88/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1762 - masked_accuracy: 0.6613
+Epoch 88: saving model to training_2/cp-0088.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1761 - masked_accuracy: 0.6613 - val_loss: 1.6395 - val_masked_accuracy: 0.5594
+Epoch 89/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1741 - masked_accuracy: 0.6620
+Epoch 89: saving model to training_2/cp-0089.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1739 - masked_accuracy: 0.6620 - val_loss: 1.6362 - val_masked_accuracy: 0.5613
+Epoch 90/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1668 - masked_accuracy: 0.6635
+Epoch 90: saving model to training_2/cp-0090.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1672 - masked_accuracy: 0.6634 - val_loss: 1.6431 - val_masked_accuracy: 0.5605
+Epoch 91/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1579 - masked_accuracy: 0.6657
+Epoch 91: saving model to training_2/cp-0091.ckpt
+100/100 [==============================] - 24s 219ms/step - loss: 1.1581 - masked_accuracy: 0.6656 - val_loss: 1.6371 - val_masked_accuracy: 0.5606
+Epoch 92/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1531 - masked_accuracy: 0.6666
+Epoch 92: saving model to training_2/cp-0092.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.1536 - masked_accuracy: 0.6666 - val_loss: 1.6415 - val_masked_accuracy: 0.5614
+Epoch 93/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1449 - masked_accuracy: 0.6689
+Epoch 93: saving model to training_2/cp-0093.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1469 - masked_accuracy: 0.6682 - val_loss: 1.6385 - val_masked_accuracy: 0.5614
+Epoch 94/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1448 - masked_accuracy: 0.6690
+Epoch 94: saving model to training_2/cp-0094.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1451 - masked_accuracy: 0.6689 - val_loss: 1.6387 - val_masked_accuracy: 0.5594
+Epoch 95/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1359 - masked_accuracy: 0.6710
+Epoch 95: saving model to training_2/cp-0095.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.1366 - masked_accuracy: 0.6709 - val_loss: 1.6541 - val_masked_accuracy: 0.5597
+Epoch 96/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1277 - masked_accuracy: 0.6732
+Epoch 96: saving model to training_2/cp-0096.ckpt
+100/100 [==============================] - 23s 215ms/step - loss: 1.1283 - masked_accuracy: 0.6730 - val_loss: 1.6412 - val_masked_accuracy: 0.5599
+Epoch 97/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1248 - masked_accuracy: 0.6741
+Epoch 97: saving model to training_2/cp-0097.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1245 - masked_accuracy: 0.6742 - val_loss: 1.6655 - val_masked_accuracy: 0.5572
+Epoch 98/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1196 - masked_accuracy: 0.6749
+Epoch 98: saving model to training_2/cp-0098.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1198 - masked_accuracy: 0.6748 - val_loss: 1.6470 - val_masked_accuracy: 0.5640
+Epoch 99/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1103 - masked_accuracy: 0.6775
+Epoch 99: saving model to training_2/cp-0099.ckpt
+100/100 [==============================] - 23s 214ms/step - loss: 1.1110 - masked_accuracy: 0.6772 - val_loss: 1.6530 - val_masked_accuracy: 0.5623
+Epoch 100/200
+ 99/100 [============================>.] - ETA: 0s - loss: 1.1080 - masked_accuracy: 0.6780
+Epoch 100: saving model to training_2/cp-0100.ckpt
+100/100 [==============================] - ETA: 0s - loss: 1.1088 - masked_accuracy: 0.6778
+
+Model: "transformer_1"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ decoder_1 (Decoder)         multiple                  1251328   
+                                                                 
+ dense_325 (Dense)           multiple                  64500     
+                                                                 
+=================================================================
+Total params: 1,315,828
+Trainable params: 1,315,828
+Non-trainable params: 0
+________________________________________________________________
