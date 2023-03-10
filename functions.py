@@ -5,11 +5,11 @@ import os
 def get_tokens(): # function to get all tokens from the dataset and put them in a numpy array
     data = np.array(()) # data aggregator for one piece
     piece_counter = 0 # counter for the number of pieces
-    for filename in os.listdir('Dataset_tokenized_BPE'): # iterate through all files in the folder
+    for filename in os.listdir('Final_Project/Dataset_tokenized_BPE'): # iterate through all files in the folder
         if filename.endswith('.npy'): # if the file is a .npy file
             data = np.append(data, 89) # append the start token
-            for i in range(len(np.load(('Dataset_tokenized_BPE/' + filename), allow_pickle=True)[()].get('tokens'))): # iterate through all the tokens in the file
-                data = np.append(data, np.load(('Dataset_tokenized_BPE/' + filename), allow_pickle=True)[()].get('tokens')[i]) # append the tokens of one piece to the numpy array
+            for i in range(len(np.load(('Final_Project/Dataset_tokenized_BPE/' + filename), allow_pickle=True)[()].get('tokens'))): # iterate through all the tokens in the file
+                data = np.append(data, np.load(('Final_Project/Dataset_tokenized_BPE/' + filename), allow_pickle=True)[()].get('tokens')[i]) # append the tokens of one piece to the numpy array
             data = np.append(data, 176) # append the end token
             piece_counter += 1 # increase the piece counter
             continue 
