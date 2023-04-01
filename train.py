@@ -4,14 +4,14 @@ from functions import *
 from model import *
 
 # hyperparameters
-d_model = 128
-dff = 512
+d_model = 96
+dff = 384
 n_heads = 8
 n_layers = 6
 dropout_rate = 0.1
-seq_length = 4096
+seq_length = 2048
 vocab_size = 512
-batch_size = 4
+batch_size = 16
 epochs = 200
 
 # filepath to data
@@ -31,7 +31,7 @@ optimizer = tf.keras.optimizers.Adam(learning_rate, beta_1=0.9, beta_2=0.98,
 model = Transformer(vocab_size, d_model, n_heads, dff, dropout_rate, n_layers, seq_length)
 
 # Include the epoch in the file name (uses `str.format`)
-checkpoint_path = f'/checkpoints/dmodel:{d_model} dff:{dff} nheads:{n_heads} nlayers:{n_layers} dropout:{dropout_rate} epochs:{epochs} seqlen:{seq_length} batch:{batch_size} date:{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}/cp-{epochs:04d}.ckpt'
+checkpoint_path = './checkpoints/cp-{epoch:04d}.ckpt'
 checkpoint_dir = os.path.dirname(checkpoint_path)
 
 # Create a callback that saves the model's weights every epoch
@@ -42,7 +42,7 @@ cp_callback = tf.keras.callbacks.ModelCheckpoint(
     save_freq=100)
 
 # create a log directory for tensorboard
-logdir = f"/logs/dmodel:{d_model} dff:{dff} nheads:{n_heads} nlayers:{n_layers} dropout:{dropout_rate} epochs:{epochs} seqlen:{seq_length} batch:{batch_size} date:{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}/fit/"
+logdir = f"/logs/fit/"
 log_dir = logdir + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
 tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=log_dir)
 
